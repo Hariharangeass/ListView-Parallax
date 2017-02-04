@@ -1,7 +1,7 @@
 #Parallax List View in Android 
 ###A quick Android project developed by <a href="https://github.com/rajatpunkstaa">Rajat Gupta </a> to demonstrate ListView parallax effect.You can go a little further and make the list header parallax animation with an view stick to top when list is scrolled.
 <h1>
-<img src="https://camo.githubusercontent.com/8286612a56fdc713e9383a2a4b611eb7810a9fe0/687474703a2f2f796179616e64726f69642e636f6d2f646174612f6769746875625f6c6962726172792f706172616c6c61785f72656379636c6572766965772f706172616c6c61785f72656379636c6572766965772e676966?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3153" align=left/>
+<img src="https://camo.githubusercontent.com/8286612a56fdc713e9383a2a4b611eb7810a9fe0/687474703a2f2f796179616e64726f69642e636f6d2f646174612f6769746875625f6c6962726172792f706172616c6c61785f72656379636c6572766965772f706172616c6c61785f72656379636c6572766965772e676966?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3153" align="right"/>
 </h1>
 ##Compatibility
 
