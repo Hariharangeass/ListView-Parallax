@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.rajatpunkstaa.parallaxlistview.ParallaxScrollView"
+        android:id="@+id/view">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="25sp"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lectus bibendum mollis quam sed, pretium felis. Do not look at, his couches, and the laughter of the Vivamus blandit dignissim. But the football scores. Donec eu sem varius, sodales quam id, posuere free. The ends of the Integer lectus nec malesuada aliquam. Kids or pure mass. Pellentesque sollicitudin augue et Nulla lacinia pellentesque. It becomes more than a mauris convallis Phasellus pulvinar. Phasellus egestas vehicula tortor nec elementum. Vestibulum sagittis, ipsum ac nibh, nisi elit accumsan velit, lobortis vehicula lectus tellus commodo purus. Each of the dishes"
+            android:id="@+id/textView"/>
+    </view>
+
+
+</LinearLayout>
